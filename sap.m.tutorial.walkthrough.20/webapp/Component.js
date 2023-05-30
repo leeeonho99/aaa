@@ -4,6 +4,7 @@ sap.ui.define([
 ], function (UIComponent, JSONModel) {
 	"use strict";
 
+	//temp modified
 	return UIComponent.extend("sap.ui.demo.walkthrough.Component", {
 
 		metadata : {
