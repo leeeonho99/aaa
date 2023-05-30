@@ -9,8 +9,7 @@
 				<Page title="{i18n>homePageTitle}">
 					<headerContent>
 						<Button
-							icon="sap-icon://hello-world"
-							press=".onOpenDialog"/>
+							icon="sap-icon://hello-world"/>
 					</headerContent>
 					<content>
 						<mvc:XMLView viewName="sap.ui.demo.walkthrough.view.HelloPanel"/>
