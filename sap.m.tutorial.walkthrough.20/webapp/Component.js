@@ -6,6 +6,7 @@ sap.ui.define([
 
 	//temp modified123
 	//temp modified1234
+	//test
 	return UIComponent.extend("sap.ui.demo.walkthrough.Component", {
 
 		metadata : {
